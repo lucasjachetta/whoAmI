@@ -51,6 +51,18 @@ div {
  
 }
 
+#linkedin-icon:hover{
+    color: var(--white);
+}
+
+#email-icon:hover{
+    color: var(--white);
+}
+
+#github-icon:hover{
+    color: var(--white);
+}
+
 
 .profile-container{
     flex-direction: column;
@@ -118,3 +130,4 @@ li {
     margin: 20px;
     text-align: justify;
 }
+
